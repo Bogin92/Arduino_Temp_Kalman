@@ -3,7 +3,7 @@
 ## Opis
 Ten projekt to prosty system monitorowania temperatury i poziomu światła przy użyciu Arduino. System wykorzystuje czujnik temperatury (termistor) oraz czujnik światła (fotorezystor) do zbierania danych o otoczeniu. Odczyty są prezentowane na wyświetlaczu LCD, a dane są przetwarzane przy użyciu filtru Kalmana, co poprawia dokładność pomiarów.
 
-![Działanie projektu](https://ibb.co/RCW7HnZ)
+![Działanie projektu](https://gifyu.com/image/SBb90)
 
 ## Funkcjonalności
 - **Pomiar temperatury**: System wykorzystuje termistor do pomiaru temperatury, a wyniki są filtrowane przy użyciu algorytmu Kalmana, co pozwala na uzyskanie stabilnych i dokładnych wartości.
