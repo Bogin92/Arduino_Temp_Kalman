@@ -1,5 +1,3 @@
-
-
 ##Projekt Monitorowania Temperatury i Oświetlenia
 
 #Opis:
